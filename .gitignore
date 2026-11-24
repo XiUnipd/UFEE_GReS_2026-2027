@@ -1,0 +1,26 @@
+# Simulation output at any depth
+Output/
+
+# Local input mesh
+/Input/mesh.vtk
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Editor temporary files and local settings
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
